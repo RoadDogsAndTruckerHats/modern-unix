@@ -22,16 +22,6 @@
 
 <p align="center">
   <h1 align="center">
-    <a href="https://github.com/Peltoche/lsd"><code>lsd</code></a>
-  </h1>
-  <p align="center">The next gen file listing command. Backwards compatible with <code>ls</code>.</p>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Peltoche/lsd/assets/screen_lsd.png" width="600" />
-  </p>
-</p>
-
-<p align="center">
-  <h1 align="center">
     <a href="https://github.com/dandavison/delta"><code>delta</code></a>
   </h1>
   <p align="center">A viewer for <code>git</code> and <code>diff</code> output</p>
@@ -179,16 +169,6 @@ lorem ipsum 23</pre></div>
 
 <p align="center">
   <h1 align="center">
-    <a href="https://github.com/nicolargo/glances"><code>glances</code></a>
-  </h1>
-  <p align="center">Glances an Eye on your system. A <code>top</code>/<code>htop</code> alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.</p>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/nicolargo/glances/develop/docs/_static/glances-summary.png" width="600" />
-  </p>
-</p>
-
-<p align="center">
-  <h1 align="center">
     <a href="https://github.com/aksakalli/gtop"><code>gtop</code></a>
   </h1>
   <p align="center">System monitoring dashboard for terminal.</p>
@@ -264,16 +244,6 @@ lorem ipsum 23</pre></div>
   <p align="center">A smarter <code>cd</code> command inspired by <code>z</code>.</p>
   <p align="center">
     <img src="https://raw.githubusercontent.com/ajeetdsouza/zoxide/main/contrib/tutorial.webp" width="600" />
-  </p>
-</p>
-
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/mr-karan/doggo"><code>doggo</code></a>
-  </h1>
-  <p align="center">🐶 Command-line DNS client for humans. <code>dig</code> on steroids</p>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/mr-karan/doggo/main/www/static/doggo.png" width="700" />
   </p>
 </p>
 
